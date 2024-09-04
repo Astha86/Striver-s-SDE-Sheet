@@ -26,3 +26,4 @@ public:
 };
 
 // T.C = O(nlogn) + O(n)
+// Not the optimal case because here array is distorted
